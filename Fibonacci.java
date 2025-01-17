@@ -1,5 +1,4 @@
 public class Fibonacci {
-
     /**
      * Recursive method to return the nth term of the Fibonacci sequence.
      * 
