@@ -1,6 +1,10 @@
 public class Fibonacci {
-
-    // Recursive method to return the nth term of the Fibonacci sequence
+    /**
+     * Recursive method to return the nth term of the Fibonacci sequence.
+     * 
+     * @param n the position in the Fibonacci sequence to retrieve
+     * @return the nth term of the Fibonacci sequence
+     */
     public static int fibonacciRecursive(int n) {
         if (n <= 1) {
             return n;
